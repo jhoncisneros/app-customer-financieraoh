@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar  target/customerApp-1.0-RC.jar
